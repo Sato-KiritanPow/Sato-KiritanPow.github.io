@@ -91,3 +91,11 @@ footer {
     </footer>
 </body>
 </html>
+
+<nav>
+    <ul>
+        <li><a href="#home">ホーム</a></li>
+        <li><a href="#course-content">コース内容</a></li>
+        <li><a href="#contact">お問い合わせ</a></li>
+    </ul>
+</nav>
